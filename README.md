@@ -236,4 +236,4 @@ This repository serves as the official landing page for Xfire. The software is d
 **Get the most recent version of Xfire today!**
 
 ---
-**Last updated:** 2026-09-11 19:21:57 UTC
+**Last updated:** 2026-09-11 22:06:27 UTC
